@@ -1,5 +1,5 @@
 "use strict";
 
-let i = 'con';
+const a = 5;
 
-console.log(`hhhr${i}hhhr`);
+console.log(a + 6);
